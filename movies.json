@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "Wakanda Forever",
+        "image": "image1.png"
+    },
+    {
+        "id": 2,
+        "title": "Beyblade Fierce Battle",
+        "image": "image2.png"
+    },
+    {
+        "id": 3,
+        "title": "Iron Man",
+        "image": "image3.png"
+    },
+    {
+        "id": 4,
+        "title": "Avengers",
+        "image": "image4.png"
+    },
+    {
+        "id": 5,
+        "title": "Movie with Ducks",
+        "image": "image5.png"
+    },
+    {
+        "id": 6,
+        "title": "Batman Classic",
+        "image": "image6.png"
+    },
+    {
+        "id": 7,
+        "title": "X-Men Apocalypse",
+        "image": "image7.png"
+    }
+]
